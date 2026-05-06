@@ -12,7 +12,7 @@ I'm actively pursuing a career in entry-level IT and Help Desk support. My focus
 
 - 📍 Based in Rancho Cucamonga, CA
 - 🎯 Target Roles: Help Desk Technician | IT Support Specialist | Desktop Support
-- 🛠️ Current Tools & Platforms: Windows 11, Oracle VirtualBox, PowerShell
+- 🛠️ Current Tools & Platforms: Windows 11, Windows Server 2022, Oracle VirtualBox, Active Directory, PowerShell
 
 ---
 
@@ -21,7 +21,7 @@ I'm actively pursuing a career in entry-level IT and Help Desk support. My focus
 | # | Project | Skills Covered | Status |
 |---|---|---|---|
 | 01 | [Create a Virtual Machine](./Project-1-Virtual-Machine/README.md) | Virtualization, OS Installation, Driver Verification, Patch Management, Network Testing, Troubleshooting | ✅ Complete |
-| 02 | Coming Soon | | 🔄 In Progress |
+| 02 | [Active Directory Home Lab](./Project-2-Active-Directory/README.md) | Active Directory, Windows Server 2022, Domain Controller Setup, User Account Management, Group Policy, Help Desk Ticketing | ✅ Complete |
 | 03 | Coming Soon | | 🔄 In Progress |
 
 ---
@@ -30,18 +30,43 @@ I'm actively pursuing a career in entry-level IT and Help Desk support. My focus
 
 **Operating Systems**
 - Windows 11 (Host & Guest)
+- Windows Server 2022 (Domain Controller)
 
 **Virtualization**
 - Oracle VirtualBox 7.2.8
+- Multi-VM lab environments with isolated internal networking
+
+**Active Directory & Identity Management**
+- Active Directory Domain Services (AD DS)
+- Active Directory Users and Computers (ADUC)
+- Organizational Unit (OU) management
+- User provisioning, deprovisioning, and group membership
+
+**Group Policy**
+- Group Policy Management Console (GPMC)
+- Account Lockout Policy configuration
+- `gpupdate /force` for policy enforcement
 
 **Networking**
-- NAT Adapter configuration, DNS resolution, ping/latency testing via PowerShell
+- NAT and Internal Network adapter configuration in VirtualBox
+- Static IP assignment and DNS configuration
+- Ping/latency testing and connectivity verification via PowerShell
 
 **System Administration**
 - Device Manager, Windows Update, Task Manager, Snapshot Management
+- Server Manager, Role and Feature installation
+
+**Help Desk Operations**
+- Ticket documentation in professional format
+- User account lifecycle management (onboarding, offboarding)
+- Password resets, account unlocks, group membership updates
 
 **Troubleshooting**
-- Hardware misconfiguration diagnosis, boot failure analysis, error code research, recovery verification
+- Hardware misconfiguration diagnosis
+- Boot failure analysis and ISO mounting issues
+- Domain join failures and DNS troubleshooting
+- Group Policy enforcement verification
+- Windows cached credential behavior
 
 ---
 
@@ -61,8 +86,8 @@ Each project lives in its own folder and contains a detailed README documenting:
 
 Feel free to reach out if you'd like to connect or discuss my work.
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(update LinkedIn URL)*
-- 📧 *(professional email)*
+- 💼 [LinkedIn](https://www.linkedin.com) *([update LinkedIn URL](https://www.linkedin.com/in/aaron-vandhana/))*
+- 📧 *(idjaeron@gmail.com)*
 
 ---
 

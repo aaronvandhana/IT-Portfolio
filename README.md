@@ -87,7 +87,7 @@ Each project lives in its own folder and contains a detailed README documenting:
 Feel free to reach out if you'd like to connect or discuss my work.
 
 - 💼 [LinkedIn](https://www.linkedin.com) *([update LinkedIn URL](https://www.linkedin.com/in/aaron-vandhana/))*
-- 📧 *(idjaeron@gmail.com)*
+- 📧 *(aaron.vandhana@calbrightcollege.org)*
 
 ---
 

@@ -321,3 +321,4 @@ This lab successfully demonstrated a complete Active Directory environment from 
 
 For full ticket documentation, see [`ticket-scenarios.md`](ticket-scenarios.md).  
 For issues encountered during the build, see [`troubleshooting-log.md`](troubleshooting-log.md).
+For viewing all screenshots, see[`Project 2 - Active Directory Tickets.pdf`](Project 2 - Active Directory.pdf). 
